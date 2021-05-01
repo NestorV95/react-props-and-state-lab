@@ -99,3 +99,5 @@ for ( let i = 0; i < AMOUNT_OF_PETS; i++ ) {
 }
 
 console.log( JSON.stringify( result, null, 2 ) );
+
+export default result ;
